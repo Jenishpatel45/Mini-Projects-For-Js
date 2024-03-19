@@ -1,0 +1,35 @@
+.main{
+  display: flex;
+}
+#grey{
+  margin: 20px;
+padding: 30px;
+border: 2px solid black;
+width: 100px;
+height: 100px;
+background-color: grey;
+}
+#white{
+  margin: 20px;
+padding: 30px;
+border: 2px solid black;
+width: 100px;
+height: 100px;
+background-color: white;
+}
+#pink{
+  margin: 20px;
+padding: 30px;
+border: 2px solid black;
+width: 100px;
+height: 100px;
+background-color: pink;
+}
+#yellow{
+  margin: 20px;
+padding: 30px;
+border: 2px solid black;
+width: 100px;
+height: 100px;
+background-color: yellow;
+}
