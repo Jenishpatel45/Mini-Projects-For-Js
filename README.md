@@ -1,2 +1,2 @@
 # Mini-Projects-For-Js
-My First js small Project as an Individual
+My First js small Project's as an Individual
